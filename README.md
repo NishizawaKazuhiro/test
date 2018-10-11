@@ -11,7 +11,7 @@ from scipy import integrate
 import matplotlib.pyplot as plt
 ```
 
-次に$\int_0^x \frac{4}{1+x^2}$という積分を計算する関数を準備します．
+次に<img src="https://latex.codecogs.com/gif.latex?\int_0^x \frac{4}{1+x^2} " /> という積分を計算する関数を準備します．
 
 
 ```python
