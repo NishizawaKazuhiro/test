@@ -47,4 +47,6 @@ plt.ylabel("Number")
 
 
 
-    Text(0, 0.5, 'Number') ![output_7_1](https://user-images.githubusercontent.com/24654057/46822981-e80aad80-cdc7-11e8-851b-3ed8c1eb40e0.png)
+    Text(0, 0.5, 'Number') 
+
+![output_7_1](https://user-images.githubusercontent.com/24654057/46822981-e80aad80-cdc7-11e8-851b-3ed8c1eb40e0.png)
