@@ -47,11 +47,4 @@ plt.ylabel("Number")
 
 
 
-    Text(0, 0.5, 'Number')
-
-
-
-
-![png](output_7_1.png)
-
-
+    Text(0, 0.5, 'Number')<blockquote class="imgur-embed-pub" lang="en" data-id="S3tYbjz"><a href="//imgur.com/S3tYbjz"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
